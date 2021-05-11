@@ -1,4 +1,4 @@
-module github.com/lukebp/testrepo
+module github.com/thi4go/testrepo
 
 go 1.16
 
