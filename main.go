@@ -3,7 +3,7 @@ package testrepo
 import (
 	"context"
 
-	"github.com/decred/dcrdata/pubsub/v4/psclient"
+	"github.com/decred/dcrdata/v6/pubsub/psclient"
 )
 
 func TestFunc() {
